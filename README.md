@@ -1,7 +1,7 @@
 # botable
 Simple tool to test after how many requests a website blocks access.
 
-## Installation
+## Setup
 1. Install python requirements.
 1. Run `./get_geckodriver.sh`
 
